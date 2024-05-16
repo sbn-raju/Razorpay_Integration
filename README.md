@@ -39,11 +39,7 @@ This project integrates a payment gateway into a web application to enable users
    Open a web browser and go to `http://localhost:8080`
 
 
-## License
 
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
-
----
 
 
 
